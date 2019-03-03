@@ -1,0 +1,2 @@
+ERROR	2018-08-28 16:18:50,818	0	com.example.demo.TradeInfo.PoloniexExInfo	[main]	Getting Ticker (Poloniex) failed: java.lang.NullPointerException
+ERROR	2018-08-28 16:45:18,312	0	com.example.demo.TradeInfo.BittrexInfo	[main]	Getting JSON data (Bittrex) failed: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but was 'ttps'
